@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #796e6e;
+}
+.container h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 20px;
+
+}
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.btn button{
+    padding: 10px;
+}
+.result{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+}
